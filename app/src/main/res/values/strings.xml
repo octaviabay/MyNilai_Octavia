@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyNilai_Octavia</string>
+    <string-array name="matkul">
+        <item>Mobile Computing</item>
+        <item>Manusia dan Komputer</item>
+        <item>Manajemen Proyek</item>
+        <item>Komputasi Cerdas</item>
+        <item>English Profienci</item>
+
+    </string-array>
+</resources>
